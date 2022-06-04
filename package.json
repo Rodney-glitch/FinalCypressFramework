@@ -1,0 +1,15 @@
+{
+  "name": "FinalCypressFramework",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/cypress run",
+    "dashboard": "npm test -- --record --key 5439160a-4cae-4001-be1d-f75f999b407f --browser chrome"  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^8.3.0"
+  }
+}

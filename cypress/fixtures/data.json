@@ -1,0 +1,10 @@
+{
+  "login":{
+    "clientUsername": "",
+    "clientPassword": "",
+    "clientInstitutionCode": "",
+    "invalidUsername": "Hadiza",
+    "invalidPassword": "hdyeyw92",
+    "invalidCode": "500"
+  }
+}
